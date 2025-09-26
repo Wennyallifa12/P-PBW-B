@@ -10,3 +10,7 @@
 - Cek status dan masuk ke staging area
 - Simpan perubahan (Commit) 
 - Integrasi dengan GitHub
+- git remote add origin https://github.com/Wennyallifa12/P-PBW-B.git
+- git add .
+- git commit -m "feat:updatereadme"
+- git push -u origin main
