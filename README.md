@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Praktikum 1: Aplikasi PHP Dasar - Form Pendaftaran Event 
 Aplikasi ini dibuat untuk memenuhi tugas praktikum dasar PHP. Aplikasi ini merupakan form pendaftaran sederhana untuk sebuah event fiktif. 
 
@@ -24,3 +25,21 @@ Menyimpan setiap pendaftar yang valid ke dalam file `pendaftar.txt`.
 **Contoh Pesan Error Validasi** 
 *(Letakkan screenshot tampilan saat ada error validasi di sini)* 
 ![Tampilan Error](link_ke_screenshot_anda_3.png) 
+=======
+# Pemrograman Berbasis Website
+## Informasi Dosen
+- Nama Dosen : Bambang Riono Arsad, S.Kom., MMSI. 
+## Mahasiswa
+- Nama : Allifa Wenny Kurnia Putri
+- NPM : 4523210126
+## Rekap Praktikum Pertemuan 1
+- Instalasi dan konfigurasi awal git.
+- Buat folder dan file baru
+- Cek status dan masuk ke staging area
+- Simpan perubahan (Commit) 
+- Integrasi dengan GitHub
+- git remote add origin https://github.com/Wennyallifa12/P-PBW-B.git
+- git add .
+- git commit -m "feat:updatereadme"
+- git push -u origin main
+>>>>>>> 47f5a89d7547f3f649a40dcfa6c918060f120d3a
