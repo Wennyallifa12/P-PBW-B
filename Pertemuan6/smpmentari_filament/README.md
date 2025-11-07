@@ -205,4 +205,4 @@ dan resources/views/layouts/app.blade.php
 3. Kegiatan
 <br>
 
-![Kegiatan](kegiatan.png)
+![Kegiatan](kegiatann.png)
