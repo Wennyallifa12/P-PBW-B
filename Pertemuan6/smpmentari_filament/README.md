@@ -180,7 +180,7 @@ Lalu pada resources/views/kegiatan-public.blade.php
 <br>
 
 dan resources/views/layouts/app.blade.php  
-<img src="app.blade.png)" alt="app" width="500">
+<img src="app.blade.png" alt="app" width="500">
 
 > Pastikan sudah menjalankan 
 ```bash
